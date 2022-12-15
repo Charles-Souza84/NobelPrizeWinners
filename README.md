@@ -18,7 +18,7 @@ No desenvolvimento deste projeto foram utilizadas as seguintes bibliotecas:
 
 * Pandas
 * NumPy
-* Mat
+* Seaborn
 ___
 
 # Etapas do Projeto
