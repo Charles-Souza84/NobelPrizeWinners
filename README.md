@@ -1,6 +1,6 @@
 # O prêmio Nobel
 
-<img src="https://assets.datacamp.com/production/project_441/img/Nobel_Prize.png">
+<img src="Nobel_Prize.png">
 
 O Prêmio Nobel é talvez a premiação científica mais conhecida no mundo. Além de honra, pretígio e um considerável prêmio em dinheiro, o vencedor ganha uma medalha de ouro que exibe Alfred Nobel ( 1833 - 1896 ), que criou o prêmio. Todo ano é dado a cientistas e estudantes nas categorias : química, literatura, física, fisiologia ou medicina, economia e paz.
 
